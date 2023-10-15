@@ -1,2 +1,2 @@
 # Tathva
-Currently I'm testing my skills on Git.
+Currently, I'm testing my knowledge on Git.
